@@ -2,4 +2,6 @@
 
 This is a new file. Revert this one after a push.
 
-This change should go away. - change 3
+Change 3
+
+This change should go away. - change 4
